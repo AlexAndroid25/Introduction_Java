@@ -6,7 +6,8 @@ import java.util.Scanner;
  * Example program of a console input scanner.
  * DON'T MODIFY This program
  *
- * To RUN this program click on the [GREEN PLAY ARROW]
+ * To RUN this program click on the [GREEN PLAY ARROW] -> Run
+ * To the right of the public static void main(...)
  */
 public class ConsoleScanner {
     public static void main(String args[]) {
