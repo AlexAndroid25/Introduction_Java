@@ -12,6 +12,9 @@ it contains information & code that you can refer to when completing the below q
 
 ==========================================================================================
 
+Q0.  Goto the ConsoleScanner.java that I have provided.  Run the program and try to understand
+     what it does.  I have put some useful documentations there.
+
 Q1.  Under Lesson2 directory create a new Java class "HelloWorld.java" and print the texts
     "Hello-world" to console.  To print text to console you can use the Java function
 
