@@ -1,0 +1,38 @@
+
+
+Exercise questions for Lesson 1
+
+1.  Under Lesson2 directory create a new Java class "HelloWorld.java" and print the texts
+    "Hello-world" to console.  To print text to console you can use the Java function
+
+    `System.out.println("")`
+
+2.  Using ConsoleScanner.java as reference, create a new program ConsoleScannerTwo.java
+    Modify that program to read in 5 number inputs instead of the default two.  Then print the 5 inputted integers.
+
+3.  Write a program called SumScanner.java to take two numbers inputs from user and print sum the numbers.
+    Use ConsoleScanner.java as reference - if required.
+
+4.  Write a program called AreaScanner.java to ask the user for a length & width input, then calculate
+    the area based on Length and width, then print the result.
+    Use ConsoleScanner.java as reference - if required.
+
+5.  Write a program called VolumeScanner.java to ask the user for (length, width, and height) - then
+    calculate the volume based on those inputted measurements.
+
+    Use ConsoleScanner.java as reference - if required.
+
+6.  Textbook question (2.1) - page 69
+
+7.  Textbook question (2.4) - page 70
+
+8.  Explain what the `final` keyword in Java does.
+
+9.  Explain the problem with the following code
+
+    public class SomeJavaClass {
+        public static void main(String args[]) {
+            final double pieConstant = 3.14;
+            pieConstant = 3.14324;
+        }
+    }

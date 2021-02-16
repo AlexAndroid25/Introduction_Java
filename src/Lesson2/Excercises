@@ -1,0 +1,48 @@
+Exercise questions for Lesson 1
+
+For this excercise we will primarily be practicing the following topics:
+
+-  Assigning variables
+-  Print message to console
+-  Read user input from console log.
+-  Final Keyword
+
+Before proceeding, please take a look at the ConsoleScanner.java file that I have provided,
+it contains information & code that you can refer to refer to when completing the below questions.
+
+==========================================================================================
+
+Q1.  Under Lesson2 directory create a new Java class "HelloWorld.java" and print the texts
+    "Hello-world" to console.  To print text to console you can use the Java function
+
+    `System.out.println("")`
+
+Q2.  Using ConsoleScanner.java as reference, create a new program ConsoleScannerTwo.java
+    Modify that program to read in 5 number inputs instead of the default two.  Then print the 5 inputted integers.
+
+Q3.  Write a program called SumScanner.java to take two numbers inputs from user and print sum the numbers.
+    Use ConsoleScanner.java as reference - if required.
+
+Q4.  Write a program called AreaScanner.java to ask the user for a length & width input, then calculate
+    the area based on Length and width, then print the result.
+    Use ConsoleScanner.java as reference - if required.
+
+Q5.  Write a program called VolumeScanner.java to ask the user for (length, width, and height) - then
+    calculate the volume based on those inputted measurements.
+
+    Use ConsoleScanner.java as reference - if required.
+
+Q6.  Textbook question (2.1) - page 69
+
+Q7.  Textbook question (2.4) - page 70
+
+Q8.  Explain what the `final` keyword in Java does.
+
+Q9.  Explain the problem with the following code
+
+    public class SomeJavaClass {
+        public static void main(String args[]) {
+            final double pieConstant = 3.14;
+            pieConstant = 3.14324;
+        }
+    }

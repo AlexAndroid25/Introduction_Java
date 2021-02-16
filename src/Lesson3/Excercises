@@ -1,0 +1,18 @@
+
+
+Exercise questions for Lesson 3
+
+0.
+1.  Write a program  to read in the minute of day and print out the corresponding military time.
+    For instance
+
+    Example 1
+    console input : 1234  ==>   output : "20:34"
+
+    Example 2
+    console input : 60    ==>   output : "1:00"
+
+    Example 3
+    console input : 90    ==>   output : "1:30"
+
+2.
